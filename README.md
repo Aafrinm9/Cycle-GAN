@@ -31,3 +31,4 @@ The cycle consistency loss ensures that A' is similar to the original A, encoura
 2. Transforming images from one visual style to another (e.g., changing photos to look like Monet paintings).
 3. Translating images from one medical modality to another, like MRI to CT scans.
 
+
